@@ -4,7 +4,6 @@
 
 🔐 Passionate about Cybersecurity, specifically in red teaming.
 
-💻 Practicing low-level programming in **C**.
 
 ![cat-typing](https://github.com/user-attachments/assets/f3e77c1e-aef2-4312-b867-6986f292e4ab)
 
@@ -13,7 +12,7 @@
 
 ## What I'm Working On Currently ##
 
-- 🔧 **Learning C Programming** – fundamentals, memory, file I/O, and secure code practices  
+- 🔧 **University Classes** - Computing Theory, Ethical Hacking & Incident Response, Web development with .NET framework, Implementation of Secure Systems, and Data Structures. 
 - 🚩 **CTF Challenges** – exploring web, crypto, forensic, and binary exploitation
 
 --- 
