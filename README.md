@@ -6,7 +6,8 @@
 
 💻 Practicing low-level programming in **C**.
 
-![cat-typing](https://github.com/user-attachments/assets/450b6904-be85-4529-816a-cb76c6493a12)
+![cat-typing](https://github.com/user-attachments/assets/f3e77c1e-aef2-4312-b867-6986f292e4ab)
+
 
 ----
 
